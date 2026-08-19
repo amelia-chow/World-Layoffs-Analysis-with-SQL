@@ -12,7 +12,6 @@ Full SQL script can be found [here](https://github.com/amelia-chow/World-Layoffs
 
 ## Dataset
 - **Global Layoffs Dataset:** Historical records of company layoffs detailing location, industry, total laid off, percentage laid off, date, company stage, country, and funds raised (in millions).
-Dataset can be found [here](-)
 
 ## 🛠️ Tools & Technologies Used
 - **SQL / MySQL** (Data cleaning, transformation, and analytical querying)
