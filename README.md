@@ -3,7 +3,7 @@
 ## Project Overview
 An end-to-end SQL project analyzing global company layoffs across various industries, countries, and funding stages. <br>
 This project demonstrates data pipeline best practices in MySQL—from raw data ingestion and deep cleaning to exploratory analysis and multi-year trend forecasting. <br>
-Full SQL script can be found [here](-)
+Full SQL script can be found [here](https://github.com/amelia-chow/World-Layoffs-/blob/main/amelia%20sql%20project.sql)
 
 ## Project Objectives
 - **Data Integrity & Standardization:** Clean unstructured raw data, remove duplicates, normalize values, and populate missing attributes.
